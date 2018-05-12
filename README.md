@@ -1,0 +1,2 @@
+# Tutorial for Representational Similarity Analysis
+Requires installation of the [data frame](https://github.com/jdiedrichsen/dataframe) and the [plotlib](https://github.com/jdiedrichsen/dataframe) toolboxes. Both toolboxes need to be in the MATLAB path for the scripts to run.
